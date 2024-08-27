@@ -1,8 +1,9 @@
 name: Label Issues (Permissions Example)
 on:
-  issues:
-    types:
-      - opened
+  workflow_dispatch:
+  # issues:
+  #   types:
+  #     - opened
 jobs:
   assign-label:
     runs-on: ubuntu-latest
